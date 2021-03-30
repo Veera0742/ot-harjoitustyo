@@ -1,4 +1,4 @@
-**Vaatimusmäärittely <h2> **
+**Vaatimusmäärittely**
 
 **Sovelluksen tarkoitus**
 
@@ -17,5 +17,5 @@ Sovelluksessa on dinosaurus, jota voi liikuttaa nuolinäppäimillä neljään er
 
 **Jatkokehitysideoita**
 
-Lisää dinosauruksia, joista voi valita lempidinosauruksensa
-Äänielementti, joka monipuolistaa oppimista 
+1. Lisää dinosauruksia, joista voi valita lempidinosauruksensa
+2. Äänielementti, joka monipuolistaa oppimista 
