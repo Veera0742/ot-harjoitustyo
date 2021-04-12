@@ -1,2 +1,1 @@
-def main():
-    print("Tervetuloa! Kirjaudu sisään tai luo uusi käyttäjä")
+print("Tervetuloa! Kirjaudu sisään tai luo uusi käyttäjä")
