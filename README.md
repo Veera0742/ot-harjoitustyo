@@ -8,5 +8,15 @@ Sovellus on opintojenseurantajärjestelmä, jossa oppilas voi seurata omaa edist
 
 [Vaatimusmäärittely](https://github.com/Veera0742/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
 
+**Komentorivitoiminnot**
+
+Ohjelman suorittaminen komennolla: poetry run invoke start
+
+Testit suoritetaan komennolla: poetry run invoke test
+
+Testikattavuusraportin saa komennolla: poetry run invoke coverage-report
+
+
+
 
 
