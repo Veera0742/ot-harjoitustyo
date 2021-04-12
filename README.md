@@ -10,11 +10,17 @@ Sovellus on opintojenseurantajärjestelmä, jossa oppilas voi seurata omaa edist
 
 **Komentorivitoiminnot**
 
-Ohjelman suorittaminen komennolla: poetry run invoke start
+Ohjelman suorittaminen komennolla: 
 
-Testit suoritetaan komennolla: poetry run invoke test
+poetry run invoke start
 
-Testikattavuusraportin saa komennolla: poetry run invoke coverage-report
+Testit suoritetaan komennolla: 
+
+poetry run invoke test
+
+Testikattavuusraportin saa komennolla: 
+
+poetry run invoke coverage-report
 
 
 
