@@ -9,8 +9,8 @@ class Users:
             self.status = "Logged in"
         else:
             self.status = "Logged out"
-          
-            
 
+    #def register(self, )
+          
     def __str__(self):
         return f"Tunnus: {self.username}, Salasana: {self.password}, Status: {self.status}"
